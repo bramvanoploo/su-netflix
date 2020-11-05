@@ -6,16 +6,13 @@
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/bramvanoploo/su-netflix",
   "keywords": [
     "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "Netflix"
   ],
   "author": "Bram van Oploo",
-  "license": "CC0-1.0",
+  "license": "GNU GPL3",
   "devDependencies": {
     "electron": "git+https://github.com/castlabs/electron-releases.git#v8.5.3-wvvmp"
   },
